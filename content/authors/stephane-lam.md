@@ -1,6 +1,6 @@
 ---
 title: Stéphane Lam
-bio: ''
+bio: I like
 avatar: ''
 social: []
 featured: true
