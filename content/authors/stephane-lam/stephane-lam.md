@@ -4,6 +4,5 @@ bio: Lol
 avatar: ''
 social: []
 featured: false
-draft: true
 
 ---
