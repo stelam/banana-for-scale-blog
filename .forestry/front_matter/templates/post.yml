@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/coding-on-the-cheap-chromebook-vs.windows.md
 - content/post/this-is-high-tech.md
