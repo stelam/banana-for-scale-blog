@@ -36,6 +36,10 @@ fields:
   config:
     maxSize: 64
   label: Hero Image
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 - name: authors
   type: tag_list
   default: []
