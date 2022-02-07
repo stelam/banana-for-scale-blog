@@ -40,10 +40,6 @@ fields:
   type: tag_list
   default: []
   label: Authors
-- tags:
-  - hugo
-  - jekyll
-  - static-site-generators
 pages:
 - content/post/coding-on-the-cheap-chromebook-vs.windows.md
 - content/post/this-is-high-tech.md
