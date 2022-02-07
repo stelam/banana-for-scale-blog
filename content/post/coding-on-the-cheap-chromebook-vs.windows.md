@@ -6,6 +6,9 @@ excerpt: Can a cheap Chromebook be used for web development? Trying to find the 
   okay" laptop for bedside software development.
 date: 2022-02-07T04:00:00.000+00:00
 hero: ''
+tags:
+- Rant
+- Hardware
 draft: true
 
 ---
