@@ -19,3 +19,7 @@ social:
   youtube: "#"
 taxonomies:
   author: authors
+  tag: tags
+params:
+  custom_css: 
+    - "css/custom.css"
