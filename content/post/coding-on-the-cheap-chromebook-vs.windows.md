@@ -28,4 +28,6 @@ So I was eyeing an open-box Lenovo Chromebook on eBay for like $150 CAD (oh my g
 
 ## The Chrome OS experience
 
+asdf
+
 ## Back to good 'ol Windows
