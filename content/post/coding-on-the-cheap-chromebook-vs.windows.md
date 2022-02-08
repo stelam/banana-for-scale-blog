@@ -1,6 +1,7 @@
 ---
 timeToRead: 10
-authors: []
+authors:
+- Stephane Lam
 title: 'Coding on the cheap: Chromebook vs. Windows vs. ...?'
 excerpt: Can a cheap Chromebook be used for web development? Trying to find the "most
   okay" laptop for bedside software development.
